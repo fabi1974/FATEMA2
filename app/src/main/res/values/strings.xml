@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactoApp</string>
+    <string name="fullName">Full name</string>
+    <string name="birthday">Birthday</string>
+    <string name="telephone">Telephone</string>
+    <string name="email">Email</string>
+    <string name="descriptionContact">Description Contact</string>
+    <string name="next">Next</string>
+    <string name="txtcheckData">Check Data</string>
+    <string name="maxLength">50</string>
+
+</resources>
